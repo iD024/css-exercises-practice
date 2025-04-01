@@ -2,7 +2,7 @@
   background-color: lightcoral;
 }
 
-.even.second {
+#second {
   font-size: 36px;
   color: blue;
 }
@@ -11,7 +11,7 @@
   font-size: 32px;
 }
 
-.even.four {
+#four {
   background-color: lightgreen;
   font-size: 34px;
   font-weight: bold;
